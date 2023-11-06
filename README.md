@@ -1,7 +1,8 @@
 # medbox
 # Medical Inventory Tracker App
 TEAM: MEDBOX
-MEMBERS: Batlang Mahatlane, Nomsa
+MEMBERS: Batlang Mahatlane, Nomsa Tlharesagae, Oreneetse Wadikonyana
+
 ## Introduction
 
 This application is developed as part of the hackathon event with the aim of addressing the challenges faced by the healthcare sector in Botswana. The Medical Inventory Tracker App is designed to provide a comprehensive solution for inventory management and accessibility to medical resources for both healthcare providers and citizens.
